@@ -1,0 +1,26 @@
+#+TITLE: My nerdoom list!
+
+Nerdoom list WHAT THE hell? Yes a list of things you "should" know from the real of Nerddom or FACE YOUR DOOM!!!!! 
+Therefore Nerdoom! you know logic. 
+
+The list is a work in progress 
+
+* Books  
+
+|-------------------------+------------------+------+----------|
+| Title                   | Auhtor           | ISBN | Language |
+|-------------------------+------------------+------+----------|
+| Lord of the flies       |                  |      | English  |
+| Fellowship of the rings | J. R. R. Tolkien |      | English  |
+| The two towers          | J. R. R. Tolkien |      | English  |
+| The return of the king  | J. R. R. Tolkien |      | English  |
+
+
+
+* Movices
+
+|---------------------------+------+---------------------------------------------------------|
+| Title                     | Year | IMDB                                                    |
+| Hackers                   | 1995 | https://www.imdb.com/title/tt0113243/?ref_=fn_al_tt_1   |
+| Robin Hood: Men in Tights | 1993 | https://www.imdb.com/title/tt0107977/?ref_=nv_sr_srsg_0 |
+
